@@ -1,0 +1,6 @@
+[submodule "Xoro_Backend"]
+	path = Xoro_Backend
+	url = https://github.com/VishnuNRaj/Xoro_Backend.git
+[submodule "Xoro_UI"]
+	path = Xoro_UI
+	url = https://github.com/VishnuNRaj/Xoro_UI.git
